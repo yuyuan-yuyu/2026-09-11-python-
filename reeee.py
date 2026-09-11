@@ -1,0 +1,6 @@
+a=input("your chosen")
+b=input("your chosen")
+c=input("your chosen")
+print(a)
+print(b*2)
+print(c*6)
